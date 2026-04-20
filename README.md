@@ -77,4 +77,4 @@ Pretty and Clawed (2026) *Nail design posts and business profile* [Instagram]. A
  Notes
 - This project was developed using HTML only (no CSS or JavaScript) 
 - Images are stored locally within the project folder 
-- The website is designed for academic purposes 
+- The website is designed for academic purposes.
